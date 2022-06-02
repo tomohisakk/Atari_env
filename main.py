@@ -1,14 +1,13 @@
 import gym
 import matplotlib.pyplot as plt
 import numpy as np
-from q_learning_agent import Agent
+from agent import Agent
 
 if __name__ == '__main__':
 	env = gym.make('FrozenLake-v1')
 	agent = Agent(lr=0.001, gamma=0.9, eps_start=1.0, eps_end=0.01,
 				  eps_dec=0.9999995, n_actions=4, n_states=16)
 
-	# ready arrayies including anything
 	scores = []
 	win_pct_list = []
 	n_games = 500000
