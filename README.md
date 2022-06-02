@@ -1,4 +1,4 @@
-## Practice of Frozen_lake
+## Practice of Reinforcement Learning
 
 # Algorithm
 - Frozen Lake environment
