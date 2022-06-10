@@ -12,3 +12,6 @@
 
 # Cart Pole
 - Total 200 games
+
+- Result
+![alt text](https://github.com/tomohisakk/Atari_env/blob/main/img/result_cart_pole.png)
