@@ -4,9 +4,7 @@
 
 ![alt text](https://github.com/tomohisakk/Frozen_lake/blob/main/img/result_froen_lake.png)
 
-![dynamic gif](https://miro.medium.com/max/1380/1*ur_42c7MLhbi6q2L3JtSqg.gif)
-
-sorce: https://miro.medium.com/max/1380/1*ur_42c7MLhbi6q2L3JtSqg.gif
+![demo](https://www.gymlibrary.ml/_images/frozen_lake.gif)
 
 - Total 500000 games
 - Q learning
@@ -14,7 +12,12 @@ sorce: https://miro.medium.com/max/1380/1*ur_42c7MLhbi6q2L3JtSqg.gif
     - γ(0.9 -> 0.01), α=0.001
 
 # Cart Pole
-- Total 200 games
 
 
 ![alt text](https://github.com/tomohisakk/Atari_env/blob/main/img/result_cart_pole.png)
+
+![demo](https://www.gymlibrary.ml/_images/cart_pole.gif)
+
+- Total 200 games
+
+
