@@ -2,9 +2,9 @@
 
 # Frozen Lake
 
-![alt text](https://github.com/tomohisakk/Frozen_lake/blob/main/img/result_froen_lake.png)
-
 ![demo](https://www.gymlibrary.ml/_images/frozen_lake.gif)
+
+![alt text](https://github.com/tomohisakk/Frozen_lake/blob/main/img/result_froen_lake.png)
 
 - Total 500000 games
 - Q learning
@@ -13,10 +13,9 @@
 
 # Cart Pole
 
+![demo](https://www.gymlibrary.ml/_images/cart_pole.gif)
 
 ![alt text](https://github.com/tomohisakk/Atari_env/blob/main/img/result_cart_pole.png)
-
-![demo](https://www.gymlibrary.ml/_images/cart_pole.gif)
 
 - Total 200 games
 
